@@ -1,0 +1,86 @@
+body{
+    background-color: ghostwhite;
+}
+header{
+    text-align: center;
+    border: 10px solid gold;
+    color: gold;
+    background-color: black;
+    border-radius: 30px;
+    padding: 10px;
+    margin-left: 30%;
+    margin-right: 30%;
+    font-family: cursive;
+}
+
+nav{
+    padding: 10px;
+    margin: 30px;
+    background-color: black;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-radius: 50%;
+    border: 10px solid goldenrod;
+}
+#navegacion{
+    color: goldenrod;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+a{
+    color: gold;
+}
+#titulo_nav{
+    text-align: center;
+    border-radius: 30px;
+    margin-left: 30%;
+    margin-right: 30%;
+    color: black;
+    background-color: goldenrod;
+    font-family: cursive;
+}
+footer{
+    color: gold;
+    text-align: right;
+    background-color: black;
+    padding: 5px;
+    border-top: 5px solid goldenrod;
+}
+fieldset{
+    border: 5px solid goldenrod;
+    margin: 20px;
+    color: gold;
+    background-color: black;
+    padding: 20px;
+    font-size: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 30px;
+}
+fieldset form{
+    padding: 30px;
+    margin: 30px;
+    color: gold;
+    background-color: black;
+    border-radius: 30px;
+    border: 5px solid gold;
+}
+fieldset form input{
+    color: gold;
+    background-color: black;
+    border: 2px solid gold;
+    margin: 10px;
+}
+#boton{
+    color: black;
+    background-color: gold;
+    padding: 10px;
+    font-family: cursive;
+    border-radius: 10px;
+}
+fieldset form textarea{
+    color: gold;
+    background-color: black;
+    border: 2px solid gold;
+    margin: 10px;
+}
