@@ -15,7 +15,6 @@ header{
 section{
     border: 5px solid goldenrod;
     margin: 20px;
-    color: gold;
     background-color: black;
     padding: 20px;
     font-size: 20px;
@@ -23,6 +22,7 @@ section{
     margin-right: 10%;
 }
 section h2{
+    color: gold;
     text-align: center;
     border: 5px solid goldenrod;
     padding: 20px;
@@ -30,21 +30,13 @@ section h2{
     margin-right: 70%;
     font-family: cursive;
 }
-section article ul i{
+section article i{
     margin: 5px;
-    font-size: 50px;
-}
-section article ul img{
-    text-align: center;
-    margin: 5px;
-    width: 60px;
-    border: 2px solid black;
-    background-color: black;
+    font-size: 100px;
 }
 section article{
     padding: 10px;
     margin: 30px;
-    color: black;
     background-color: goldenrod;
 }
 section article h3{
@@ -52,8 +44,70 @@ section article h3{
     border-radius: 30px;
     margin-left: 30%;
     margin-right: 30%;
-    color: gold;
     background-color: black;
+    font-family: cursive;
+}
+section ol h3{
+    color: gold;
+}
+section ol{
+    border: 5px solid goldenrod;
+    padding: 50px;
+    background-color: black;
+    margin: 2%;
+    font-size: 25px;
+    border-radius: 30px;
+}
+section ol li{
+    padding-left: 10px;
+    font-family: cursive;
+}
+section ol div i{
+    margin: 5px;
+    font-size: 100px;
+}
+#elemento1{
+    color: red;
+}
+#elemento2{
+    color: greenyellow;
+}
+#elemento3{
+    color: gold;
+}
+#elemento4{
+    color: blueviolet;
+}
+#elemento5{
+    color: orangered;
+}
+section aside{
+    text-align: center;
+    color: gold;
+    border: 5px solid goldenrod;
+    margin: 20px;
+    background-color: black;
+    padding: 20px;
+    font-size: 20px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+section aside img{
+    width: 50%;
+}
+#div_boton{
+    text-align: center;
+    margin: 50px;
+}
+section a{
+    text-align: center;
+    padding: 20px;
+    background-color: gold;
+    border: 2px solid gold;
+    color: black;
+    border-radius: 10px;
+    text-decoration: none;
+    height: 10px;
     font-family: cursive;
 }
 nav{
